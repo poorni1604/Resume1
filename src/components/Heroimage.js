@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 const Heroimage = () => {
   return <div className="hero">
     <div className="mask">
-        <img className="into-img" src= {bg2} alt="image"/>
+        <img className="into-img" src= {bg2} alt="imagepoornima"/>
     </div>
     <div className="content">
         <p>Hello,I am Poornima venkatesh</p>
